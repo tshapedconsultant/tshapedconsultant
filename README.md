@@ -2,6 +2,8 @@
 
 **Responsible AI Engineer | Gen AI and AI Consultant**
 
+📍 **Location**: Spain | 🌐 **Languages**: English, Spanish
+
 Building AI solutions with explainability, fairness, and compliance. Specializing in Generative AI, Responsible AI governance, and enterprise AI consulting.
 
 > *"AI is not just another wave of technology—it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
@@ -42,6 +44,10 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 - **Fractal** - Generative AI for Consultants, Modern Data Strategy for Enterprise Generative AI
 
 *Selected from 10,000+ global courses, focusing on top 5% programs for AI consultant relevance in Responsible Generative AI and Explainable AI (XAI).*
+
+## 📚 Currently Learning
+
+🎓 **DeepLearning.AI** - Advanced AI and machine learning courses
 
 ## 💼 What I Do
 
