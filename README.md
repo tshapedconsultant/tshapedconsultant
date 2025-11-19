@@ -69,7 +69,7 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 
 ## 📊 Featured Projects
 
-- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
+- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Maintenance)** - ML pipeline with Responsible AI compliance reporting
 
 - **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions
   - Self-governing AI system for real-time toxic content detection using TensorFlow.js
