@@ -6,7 +6,7 @@
 
 Building AI solutions with explainability, fairness, and compliance. Specializing in Generative AI, Responsible AI governance, and enterprise AI consulting.
 
-> *"AI is not just another wave of technology it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
+> *"AI is not just another wave of technology—it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
 
 ## 🏆 Recognition
 
@@ -77,10 +77,11 @@ Drawing insights from leading AI and business thought leaders:
 - **Data**: pandas, numpy, SQL, data cleaning with pandas
 - **MLOps**: Model monitoring, drift detection, compliance
 - **Tools**: Git, Docker, Jupyter, VS Code
+- **AI-Powered Development**: Cursor, Claude Code - Advanced AI-assisted programming tools for enhanced productivity and code quality
 
 ## 📊 Featured Projects
 
-- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Maintenance)** - ML pipeline with Responsible AI compliance reporting
+- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
 
 - **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions
   - Self-governing AI system for real-time toxic content detection using TensorFlow.js
