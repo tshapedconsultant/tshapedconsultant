@@ -49,6 +49,17 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 
 🎓 **DeepLearning.AI** - Advanced AI and machine learning courses
 
+## 🧠 Learning From
+
+Drawing insights from leading AI and business thought leaders:
+- **Eric Schmidt** - Former Google CEO, AI strategy and governance
+- **Mustafa Suleyman** - DeepMind co-founder, AI innovation and ethics
+- **Andrew Ng** - AI education pioneer, machine learning fundamentals
+- **Rita McGrath** - Columbia Business School, strategy and innovation
+- **Ian McCulloh** - Network science and AI applications
+- **Merve Hickok** - AI ethics and responsible AI governance
+- **Erik Brynjolfsson** - MIT, AI economics and productivity
+
 ## 💼 What I Do
 
 - Design and deploy production AI/ML systems with end-to-end pipelines
