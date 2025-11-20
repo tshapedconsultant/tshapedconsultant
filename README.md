@@ -6,7 +6,7 @@
 
 Building AI solutions with explainability, fairness, and compliance. Specializing in Generative AI, Responsible AI governance, and enterprise AI consulting.
 
-> *"AI is not just another wave of technology—it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
+> *"AI is not just another wave of technology it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
 
 ## 🏆 Recognition
 
