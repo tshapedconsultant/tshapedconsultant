@@ -47,8 +47,7 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 
 ## 📚 Currently Learning
 
-🎓 **DeepLearning.AI** - Advanced AI and machine learning courses  
-🤖 **Advanced AI** - Agentic AI and Multi-Agents with Crew AI
+🎓 **DeepLearning.AI** - Advanced AI and machine learning courses , Agentic AI and Multi-Agents with Crew AI
 
 ## 🧠 Learning From
 
