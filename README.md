@@ -47,7 +47,8 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 
 ## 📚 Currently Learning
 
-🎓 **DeepLearning.AI** - Advanced AI and machine learning courses
+🎓 **DeepLearning.AI** - Advanced AI and machine learning courses  
+🤖 **Advanced AI** - Agentic AI and Multi-Agents with Crew AI
 
 ## 🧠 Learning From
 
@@ -59,6 +60,7 @@ Drawing insights from leading AI and business thought leaders:
 - **Ian McCulloh** - Network science and AI applications
 - **Merve Hickok** - AI ethics and responsible AI governance
 - **Erik Brynjolfsson** - MIT, AI economics and productivity
+- **Robert Shiller** - Nobel Laureate, Behavioral Economics
 
 ## 💼 What I Do
 
