@@ -104,7 +104,7 @@ Drawing insights from leading AI and business thought leaders:
 ## 📫 Connect
 
 - **LinkedIn**: [Andrés Lage Freire](https://www.linkedin.com/in/andres-lage-freire-4562a91b1/)
-- **Email**: tshapedconsultant@gmail.com
+- **Email**: andreslagefreire@gmail.com
 - **GitHub**: [@tshapedconsultant](https://github.com/tshapedconsultant)
 
 ## 🤝 Let's Connect
