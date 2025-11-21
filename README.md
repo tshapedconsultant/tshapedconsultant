@@ -73,7 +73,9 @@ Drawing insights from leading AI and business thought leaders:
 ## 🔧 Tech Stack
 
 - **ML/AI**: Python, scikit-learn, TensorFlow, PyTorch
-- **Gen AI**: LLMs, LangChain, OpenAI API, vector databases
+- **Gen AI**: LLMs, LangChain, LangGraph, OpenAI API, vector databases
+- **Agentic AI**: Multi-agent systems, autonomous decision-making, workflow orchestration, tool use & function calling
+- **API Development**: FastAPI, REST APIs, streaming responses, real-time event handling
 - **Explainability**: LIME, SHAP, model interpretability
 - **Data**: pandas, numpy, SQL, data cleaning with pandas
 - **MLOps**: Model monitoring, drift detection, compliance
@@ -81,6 +83,12 @@ Drawing insights from leading AI and business thought leaders:
 - **AI-Powered Development**: Cursor, Claude Code - Advanced AI-assisted programming tools for enhanced productivity and code quality
 
 ## 📊 Featured Projects
+
+- **[Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** - Production-ready multi-agent system demonstrating Agentic AI principles
+  - Built with LangGraph for workflow orchestration and FastAPI for API
+  - Features autonomous decision-making, tool use, and multi-agent collaboration
+  - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
+  - Real-time streaming API with intelligent routing and state management
 
 - **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
 
