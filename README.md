@@ -54,8 +54,8 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 Drawing insights from leading AI and business thought leaders:
 - **Eric Schmidt** - Former Google CEO, AI strategy and governance
 - **Mustafa Suleyman** - DeepMind co-founder, AI innovation and ethics
-- **Andrew Ng** - AI education pioneer, machine learning fundamentals
-- **Rita McGrath** - Columbia Business School, strategy and innovation
+- **Andrew Ng** - AI education pioneer, machine learning fundamentals,Google Brain founder and Stanford professor
+- **Rita McGrath** - Columbia Business School, strategy and innovation,Thinkers50 winner
 - **Ian McCulloh** - Network science and AI applications
 - **Merve Hickok** - AI ethics and responsible AI governance
 - **Erik Brynjolfsson** - MIT, AI economics and productivity
