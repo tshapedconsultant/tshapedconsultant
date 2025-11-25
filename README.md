@@ -54,8 +54,8 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 Drawing insights from leading AI and business thought leaders:
 - **Eric Schmidt** - Former Google CEO, AI strategy and governance
 - **Mustafa Suleyman** - DeepMind co-founder, AI innovation and ethics
-- **Andrew Ng** - AI education pioneer, machine learning fundamentals,Google Brain founder and Stanford professor
-- **Rita McGrath** - Columbia Business School, strategy and innovation,Thinkers50 winner
+- **Andrew Ng** - AI education pioneer, machine learning fundamentals
+- **Rita McGrath** - Columbia Business School, strategy and innovation
 - **Ian McCulloh** - Network science and AI applications
 - **Merve Hickok** - AI ethics and responsible AI governance
 - **Erik Brynjolfsson** - MIT, AI economics and productivity
@@ -90,8 +90,8 @@ Drawing insights from leading AI and business thought leaders:
   - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
   - Real-time streaming API with intelligent routing and state management
 
-- **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/PandasvsPolars)** - Statistically rigorous performance & reliability benchmark
-  - Demonstrates 5.5x performance improvement with comprehensive variance analysis
+- **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/Pandas-VS-Polars-Benchmark)** - Statistically rigorous performance & reliability benchmark
+  - Demonstrates significant performance improvement with comprehensive variance analysis
   - V3 methodology with explicit schemas, warmup runs, and 20-run statistical testing
   - Coefficient of Variation (CV) analysis for production reliability assessment
   - Automated visualizations (distribution, box plots, timeseries) and executive DOCX reports
