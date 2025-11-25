@@ -118,12 +118,6 @@ Drawing insights from leading AI and business thought leaders:
   - Client-side processing ensures GDPR compliance and data sovereignty
   - Autonomous risk assessment with immutable blockchain logging for auditability
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&langs_count=8&theme=radical&hide_border=true)
-
 ## 📝 Latest Articles
 
 Stay updated with my latest insights on Responsible AI, Generative AI, and enterprise AI transformation:
