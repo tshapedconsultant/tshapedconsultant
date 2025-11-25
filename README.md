@@ -12,6 +12,15 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 
 **Repsol Foundation Entrepreneurship Award Winner** - Designed a platform connecting student talent with companies, engaging five major corporations using strategic frameworks and Design Thinking. Featured in La Voz de Galicia for solving real-world business challenges.
 
+## 🏅 Achievements
+
+- 🏆 **Repsol Foundation Entrepreneurship Award Winner**
+- 📚 **10,000+ courses evaluated**, top 5% selected for AI consultant relevance
+- 🎓 **40+ certifications** from leading institutions (Stanford, Oxford, Harvard, MIT, etc.)
+- 🚀 **Production AI/ML systems** deployed with Responsible AI compliance
+- 📊 **Multi-agent AI systems** built for enterprise clients
+- 🔬 **Statistically rigorous benchmarks** published and validated
+
 ## 🎓 Certifications & Advanced Training
 
 **AI & Machine Learning Foundations**
@@ -114,6 +123,13 @@ Drawing insights from leading AI and business thought leaders:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&theme=radical&hide_border=true)
+
+## 📝 Latest Articles
+
+Stay updated with my latest insights on Responsible AI, Generative AI, and enterprise AI transformation:
+
+- 📖 Read more on [Medium](https://medium.com/@andresl) - Articles on AI ethics, Responsible AI practices, and technical deep-dives
+- 💡 Follow for updates on Generative AI governance, Explainable AI (XAI), and MLOps best practices
 
 ## 📫 Connect
 
