@@ -77,7 +77,7 @@ Drawing insights from leading AI and business thought leaders:
 - **Agentic AI**: Multi-agent systems, autonomous decision-making, workflow orchestration, tool use & function calling
 - **API Development**: FastAPI, REST APIs, streaming responses, real-time event handling
 - **Explainability**: LIME, SHAP, model interpretability
-- **Data**: pandas, numpy, SQL, data cleaning with pandas
+- **Data**: pandas, polars, numpy, SQL, data cleaning with pandas
 - **MLOps**: Model monitoring, drift detection, compliance
 - **Tools**: Git, Docker, Jupyter, VS Code
 - **AI-Powered Development**: Cursor, Claude Code - Advanced AI-assisted programming tools for enhanced productivity and code quality
@@ -89,6 +89,13 @@ Drawing insights from leading AI and business thought leaders:
   - Features autonomous decision-making, tool use, and multi-agent collaboration
   - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
   - Real-time streaming API with intelligent routing and state management
+
+- **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/PandasvsPolars)** - Statistically rigorous performance & reliability benchmark
+  - Demonstrates 5.5x performance improvement with comprehensive variance analysis
+  - V3 methodology with explicit schemas, warmup runs, and 20-run statistical testing
+  - Coefficient of Variation (CV) analysis for production reliability assessment
+  - Automated visualizations (distribution, box plots, timeseries) and executive DOCX reports
+  - Modular architecture with unit tests, lazy imports, and modern Python packaging
 
 - **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
 
