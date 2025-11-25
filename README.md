@@ -6,7 +6,7 @@
 
 Building AI solutions with explainability, fairness, and compliance. Specializing in Generative AI, Responsible AI governance, and enterprise AI consulting.
 
-> *"AI is not just another wave of technology it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
+> *"AI is not just another wave of technology, it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
 
 ## 🏆 Recognition
 
@@ -98,6 +98,11 @@ Drawing insights from leading AI and business thought leaders:
   - Modular architecture with unit tests, lazy imports, and modern Python packaging
 
 - **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
+  - Comprehensive predictive maintenance system with explainability tools (LIME, SHAP)
+  - Automated drift detection and model monitoring for production reliability
+  - Fairness analysis and bias mitigation strategies
+  - Automated compliance reporting for regulatory requirements
+  - End-to-end MLOps pipeline with model versioning and deployment
 
 - **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions
   - Self-governing AI system for real-time toxic content detection using TensorFlow.js
@@ -108,9 +113,12 @@ Drawing insights from leading AI and business thought leaders:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&theme=radical&hide_border=true)
+
 ## 📫 Connect
 
 - **LinkedIn**: [Andrés Lage Freire](https://www.linkedin.com/in/andres-lage-freire-4562a91b1/)
+- **Medium**: [@andresl](https://medium.com/@andresl)
 - **Email**: andreslagefreire@gmail.com
 - **GitHub**: [@tshapedconsultant](https://github.com/tshapedconsultant)
 
