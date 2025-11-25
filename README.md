@@ -120,10 +120,9 @@ Drawing insights from leading AI and business thought leaders:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&langs_count=8&theme=radical&hide_border=true)
 
 ## 📝 Latest Articles
 
