@@ -120,16 +120,19 @@ Drawing insights from leading AI and business thought leaders:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tshapedconsultant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshapedconsultant&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
 ## 📝 Latest Articles
 
 Stay updated with my latest insights on Responsible AI, Generative AI, and enterprise AI transformation:
 
-- 📖 Read more on [Medium](https://medium.com/@andresl) - Articles on AI ethics, Responsible AI practices, and technical deep-dives
-- 💡 Follow for updates on Generative AI governance, Explainable AI (XAI), and MLOps best practices
+- **[AI's Coding Fluency: The Strategic Imperative for a New Human-Machine Operating Model](https://medium.com/@andresl/ais-coding-fluency-the-strategic-imperative-for-a-new-human-machine-operating-model-deec01a25fc2)** - Exploring the strategic imperative of AI coding fluency and the evolution of human-machine collaboration models
+- **[Why Working with AI is Like Horsemanship](https://medium.com/@andresl/why-working-with-ai-is-like-horsemanship-8a0e06b7da2b)** - Drawing parallels between AI collaboration and horsemanship, emphasizing trust, communication, and partnership
+
+📖 Read more on [Medium](https://medium.com/@andresl) - Articles on AI ethics, Responsible AI practices, and technical deep-dives
 
 ## 📫 Connect
 
