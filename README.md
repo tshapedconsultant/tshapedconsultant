@@ -15,8 +15,7 @@ Building AI solutions with explainability, fairness, and compliance. Specializin
 ## 🏅 Achievements
 
 - 🏆 **Repsol Foundation Entrepreneurship Award Winner**
-- 📚 **10,000+ courses evaluated**, top 5% selected for AI consultant relevance
-- 🎓 **40+ certifications** from leading institutions (Stanford, Oxford, Harvard, MIT, etc.)
+- 🎓 **40+ certifications** from leading institutions (Stanford, Oxford,  etc.)
 - 🚀 **Production AI/ML systems** deployed with Responsible AI compliance
 - 📊 **Multi-agent AI systems** built for enterprise clients
 - 🔬 **Statistically rigorous benchmarks** published and validated
