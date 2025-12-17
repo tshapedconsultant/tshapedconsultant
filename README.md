@@ -53,8 +53,6 @@
 - **Vanderbilt University** - Model Context Protocol for Leaders: Generative AI Agents, Advanced Prompt Engineering, Generative AI for Leaders
 - **Fractal** - Generative AI for Consultants, Modern Data Strategy for Enterprise Generative AI
 
-*Plus 30+ technical certifications in ML Engineering, Cloud Architecture, and AI Development from leading platforms and institutions.*
-
 ## 🧠 Learning From
 
 Drawing insights from leading AI and business thought leaders:
