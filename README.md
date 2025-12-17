@@ -118,13 +118,11 @@ Drawing insights from leading AI and business thought leaders:
 
 ## 📊 Featured Projects
 
-- **[Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** - Production-ready multi-agent system demonstrating Agentic AI principles with governance controls
+- **[Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** - Production-ready multi-agent system demonstrating Agentic AI principles
   - Built with LangGraph for workflow orchestration and FastAPI for API
   - Features autonomous decision-making, tool use, and multi-agent collaboration
-  - **Implemented strict permission boundaries and human-in-the-loop validation steps to control autonomous agent actions**
   - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
   - Real-time streaming API with intelligent routing and state management
-  - Governance framework ensuring agent actions comply with defined policies and audit requirements
 
 - **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/Pandas-VS-Polars-Benchmark)** - Statistically rigorous performance & reliability benchmark
   - Demonstrates significant performance improvement with comprehensive variance analysis
@@ -133,18 +131,16 @@ Drawing insights from leading AI and business thought leaders:
   - Automated visualizations (distribution, box plots, timeseries) and executive DOCX reports
   - Modular architecture with unit tests, lazy imports, and modern Python packaging
 
-- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI compliance reporting
+- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI features
   - Comprehensive predictive maintenance system with explainability tools (LIME, SHAP)
   - Automated drift detection and model monitoring for production reliability
-  - Fairness analysis and bias mitigation strategies aligned with EU AI Act requirements
-  - Automated compliance reporting for regulatory requirements with technical documentation
-  - End-to-end MLOps pipeline with model versioning, governance checkpoints, and deployment controls
+  - Fairness analysis and bias mitigation strategies
+  - End-to-end MLOps pipeline with model versioning and deployment
 
-- **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions with governance-first architecture
-  - Self-governing AI system for real-time toxic content detection using TensorFlow.js
-  - Client-side processing ensures GDPR compliance and data sovereignty
-  - Autonomous risk assessment with immutable blockchain logging for auditability and regulatory compliance
-  - Governance framework ensuring transparent decision-making and accountability
+- **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions
+  - Real-time toxic content detection using TensorFlow.js
+  - Client-side processing for data privacy and sovereignty
+  - Autonomous risk assessment system
 
 ## 📝 Latest Articles
 
