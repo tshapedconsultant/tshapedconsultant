@@ -124,16 +124,15 @@ Drawing insights from leading AI and business thought leaders:
   - Jira human gates: Epic + Legal / SecOps / AI Governance tasks; inbound HMAC webhooks close department approvals; `DecisionRecord` audit trail
   - FastAPI + vanilla console; CI test gate, evidence-pack artifacts, and a production deploy gate (Demo / PoC — not SSO/RBAC or tenant RLS)
 
-**2. [Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** - Production-ready multi-agent system demonstrating Agentic AI principles
-  - Built with LangGraph for workflow orchestration and FastAPI for API
-  - Features autonomous decision-making, tool use, and multi-agent collaboration
-  - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
-  - Real-time streaming API with intelligent routing and state management
+**2. [Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** — LangGraph multi-agent system that turns plain-English questions into analysis via a Supervisor, Data Analyst, and Business Strategist. A rules-only decision engine routes the workflow (the LLM never picks the next node); a second SQL pipeline plans, validates, and executes read-only queries behind defense-in-depth guards, with LangSmith tracing for auditability.
 
-**3. [Porto Seguro Compliance Hub](https://github.com/tshapedconsultant/porto-seguro-compliance-hub)** - Production-oriented Responsible AI reference architecture for EU AI Act and Solvency II
-  - EBM + Polars insurance claim prediction with native glass-box explainability
-  - Drift monitoring, fairness audits, and JSON evidence packs for auditors
-  - Streamlit Model Card and FastAPI compliance monitor for regulated-industry due diligence
+**3. [Porto Seguro Compliance Hub](https://github.com/tshapedconsultant/porto-seguro-compliance-hub)** — Production-oriented, vendor-agnostic Responsible AI reference architecture for highly regulated industries under the EU AI Act and Solvency II. EBM glass-box insurance-claim prediction with Polars, drift and fairness audits, JSON evidence packs, and a Streamlit Model Card for auditor due diligence.
+
+**4. [ADK Spanish Hotel Voice Assistant](https://github.com/tshapedconsultant/adk-spanish-hotel-voice-assistant)** — Spanish voice-and-text hotel booking assistant (Gemini, Flask, Redis) built as a reference for applying the OWASP Top 10 for Agentic Applications as architecture, not a bolt-on. Runs as a voice kiosk, CLI/chatbot, or webhook service, with confirmation-gated bookings so the agent does not take out-of-context actions.
+
+**5. [RAG Business Model Canvas Generator](https://github.com/tshapedconsultant/ragbmc_space)** — RAG system that answers business-model questions and generates Business Model Canvas artifacts anchored in a curated FAISS knowledge base. Generation is DB-first; web search is only a safety net to verify unsourced claims, not the primary source.
+
+**6. [Predictive Responsible Maintenance](https://github.com/tshapedconsultant/Predictive-Responsible-Maintenance)** — End-to-end ML pipeline for industrial failure prediction with LIME/SHAP explainability, Kolmogorov–Smirnov drift detection, fairness analysis across machine types, and automated Responsible AI PDF reports plus a Streamlit monitoring dashboard.
 
 - **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/Pandas-VS-Polars-Benchmark)** - Statistically rigorous performance & reliability benchmark
   - Demonstrates significant performance improvement with comprehensive variance analysis
@@ -141,12 +140,6 @@ Drawing insights from leading AI and business thought leaders:
   - Coefficient of Variation (CV) analysis for production reliability assessment
   - Automated visualizations (distribution, box plots, timeseries) and executive DOCX reports
   - Modular architecture with unit tests, lazy imports, and modern Python packaging
-
-- **[Predictive Maintenance ML Pipeline](https://github.com/tshapedconsultant/Predictive-Responsible-Mantainance)** - ML pipeline with Responsible AI features
-  - Comprehensive predictive maintenance system with explainability tools (LIME, SHAP)
-  - Automated drift detection and model monitoring for production reliability
-  - Fairness analysis and bias mitigation strategies
-  - End-to-end MLOps pipeline with model versioning and deployment
 
 - **[ToxiChain](https://github.com/tshapedconsultant/ToxiChain)** - AI for chat moderation and digital transactions
   - Real-time toxic content detection using TensorFlow.js
