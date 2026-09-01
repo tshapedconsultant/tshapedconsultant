@@ -119,10 +119,10 @@ Drawing insights from leading AI and business thought leaders:
 ## 📊 Featured Projects
 
 **1. Flagship — [Enterprise AI Risk Console](https://github.com/tshapedconsultant/enterprise-ai-risk)** — Enterprise AI Governance & Risk Control Layer for third-party AI vendor intake. Deterministic engine, not a chatbot.
-  - Evidence-first triage: missing evidence never reduces residual risk; the rules engine sets score (1–5) and decision; LLM chat (if configured) only explains
+  - Deterministic triage from validated YAML profiles, tamper-evident hash-chained audit, dual external anchoring with Jira + optional Rekor/S3 Object Lock
+  - Evidence-first: missing evidence never reduces residual risk; the rules engine sets score (1–5) and decision; LLM chat (if configured) only explains
   - Jira human gates: Epic + Legal / SecOps / AI Governance tasks; inbound HMAC webhooks close department approvals; `DecisionRecord` audit trail
-  - Hash-chained, tamper-evident audit ledger on SQLite (Demo / PoC — not SSO/RBAC, tenant RLS, or an external WORM anchor)
-  - FastAPI + vanilla console; CI test gate, evidence-pack artifacts, and a production deploy gate
+  - FastAPI + vanilla console; CI test gate, evidence-pack artifacts, and a production deploy gate (Demo / PoC — not SSO/RBAC or tenant RLS)
 
 **2. [Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** - Production-ready multi-agent system demonstrating Agentic AI principles
   - Built with LangGraph for workflow orchestration and FastAPI for API
