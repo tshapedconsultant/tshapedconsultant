@@ -130,6 +130,11 @@ Drawing insights from leading AI and business thought leaders:
   - Supervisor-worker pattern with specialized agents (Data Analyst, Business Strategist)
   - Real-time streaming API with intelligent routing and state management
 
+**3. [Porto Seguro Compliance Hub](https://github.com/tshapedconsultant/porto-seguro-compliance-hub)** - Production-oriented Responsible AI reference architecture for EU AI Act and Solvency II
+  - EBM + Polars insurance claim prediction with native glass-box explainability
+  - Drift monitoring, fairness audits, and JSON evidence packs for auditors
+  - Streamlit Model Card and FastAPI compliance monitor for regulated-industry due diligence
+
 - **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/Pandas-VS-Polars-Benchmark)** - Statistically rigorous performance & reliability benchmark
   - Demonstrates significant performance improvement with comprehensive variance analysis
   - V3 methodology with explicit schemas, warmup runs, and 20-run statistical testing
