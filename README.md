@@ -1,39 +1,39 @@
-# Hi, I'm T-Shaped Consultant ­ƒæï
+# Hi, I'm T-Shaped Consultant ┬¡ãÆ├ª├»
 
 **Senior Responsible AI Governance | AI Strategy & Risk Management**
 
-­ƒôì **Location**: Spain | ­ƒîÉ **Languages**: English, Spanish | ÔÜû´©Å **EU AI Act Ready**
+┬¡ãÆ├┤├¼ **Location**: Spain | ┬¡ãÆ├«├ë **Languages**: English, Spanish | ├ö├£├╗┬┤┬®├à **EU AI Act Ready**
 
 *Bridging the gap between Technical AI implementation and Regulatory Compliance. I transform regulatory requirements (EU AI Act, ISO 42001) into technical guardrails for Generative and Agentic AI systems.*
 
-## Why T-Shaped consulting / Por qué consultoría T-Shaped
+## Why T-Shaped consulting / Por qu├® consultor├¡a T-Shaped
 
-**EN** — Corporate AI has mutated: it is no longer about governing statistical predictions (Machine Learning), but about constraining probabilistic models (LLMs) that make decisions and execute tools (Autonomous Agents). These projects die in the crossfire: Legal blocks deployment out of regulatory fear, Engineering stalls justifying the model's stochasticity, and Business ignores asymmetric risk. My work is not to referee internal debates, but to design the deterministic architecture that resolves the three tensions in a single technical specification.
+**EN** ÔÇö Corporate AI has mutated: it is no longer about governing statistical predictions (Machine Learning), but about constraining probabilistic models (LLMs) that make decisions and execute tools (Autonomous Agents). These projects die in the crossfire: Legal blocks deployment out of regulatory fear, Engineering stalls justifying the model's stochasticity, and Business ignores asymmetric risk. My work is not to referee internal debates, but to design the deterministic architecture that resolves the three tensions in a single technical specification.
 
-**ES** — La IA corporativa ha mutado: ya no se trata de gobernar predicciones estadísticas (Machine Learning), sino de acotar modelos probabilísticos (LLMs) que toman decisiones y ejecutan herramientas (Agentes Autónomos). Estos proyectos mueren en el fuego cruzado: Legal frena el despliegue por miedo regulatorio, Ingeniería se atasca justificando la estocasticidad del modelo, y Negocio ignora el riesgo asimétrico. Mi trabajo no es arbitrar debates internos, sino diseñar la arquitectura determinista que resuelve las tres tensiones en una única especificación técnica.
+**ES** ÔÇö La IA corporativa ha mutado: ya no se trata de gobernar predicciones estad├¡sticas (Machine Learning), sino de acotar modelos probabil├¡sticos (LLMs) que toman decisiones y ejecutan herramientas (Agentes Aut├│nomos). Estos proyectos mueren en el fuego cruzado: Legal frena el despliegue por miedo regulatorio, Ingenier├¡a se atasca justificando la estocasticidad del modelo, y Negocio ignora el riesgo asim├®trico. Mi trabajo no es arbitrar debates internos, sino dise├▒ar la arquitectura determinista que resuelve las tres tensiones en una ├║nica especificaci├│n t├®cnica.
 
-Site: [tshapedconsultant.com](https://tshapedconsultant.com/) · [ES](https://tshapedconsultant.com/es/#about) · [EN](https://tshapedconsultant.com/#about)
+Site: [tshapedconsultant.com](https://tshapedconsultant.com/) ┬À [ES](https://tshapedconsultant.com/es/#why-tshaped) ┬À [EN](https://tshapedconsultant.com/#why-tshaped)
 
 
 > *"AI is not just another wave of technology, it's a force far more impactful than the internet. You can resist it or embrace it, but only the latter will take you further."*
 
-## ­ƒÅå Recognition
+## ┬¡ãÆ├à├Ñ Recognition
 
 **Repsol Foundation Entrepreneurship Award Winner** - Designed a platform connecting student talent with companies, engaging five major corporations using strategic frameworks and Design Thinking. Featured in La Voz de Galicia for solving real-world business challenges.
 
-## ­ƒÅà Achievements
+## ┬¡ãÆ├à├á Achievements
 
-- ­ƒÅå **Repsol Foundation Entrepreneurship Award Winner**
-- ­ƒÄô **40+ certifications** from leading institutions (Stanford, Oxford, Cambridge, etc.)
-- ­ƒÜÇ **Production AI/ML systems** deployed with Responsible AI compliance
-- ­ƒôè **Multi-agent AI systems** built with governance frameworks for enterprise clients
-- ­ƒö¼ **Statistically rigorous benchmarks** published and validated
-- ÔÜû´©Å **Regulatory compliance frameworks** operationalized for EU AI Act readiness
+- ┬¡ãÆ├à├Ñ **Repsol Foundation Entrepreneurship Award Winner**
+- ┬¡ãÆ├ä├┤ **40+ certifications** from leading institutions (Stanford, Oxford, Cambridge, etc.)
+- ┬¡ãÆ├£├ç **Production AI/ML systems** deployed with Responsible AI compliance
+- ┬¡ãÆ├┤├¿ **Multi-agent AI systems** built with governance frameworks for enterprise clients
+- ┬¡ãÆ├Â┬╝ **Statistically rigorous benchmarks** published and validated
+- ├ö├£├╗┬┤┬®├à **Regulatory compliance frameworks** operationalized for EU AI Act readiness
 
-## ­ƒÄô Certifications & Advanced Training
+## ┬¡ãÆ├ä├┤ Certifications & Advanced Training
 
 **AI Governance & Regulatory Compliance**
-- **Sa├»d Business School, University of Oxford** - Generative and Agentic AI, AI Governance, AI Fundamentals in Financial Services
+- **SaÔö£┬╗d Business School, University of Oxford** - Generative and Agentic AI, AI Governance, AI Fundamentals in Financial Services
 - **Wharton Online** - AI Strategy and Governance
 - **University of Michigan** - Responsible Generative AI Specialization
 - **Coursera** - AI and European Union Law: Navigating Regulatory Compliance
@@ -62,7 +62,7 @@ Site: [tshapedconsultant.com](https://tshapedconsultant.com/) · [ES](https://ts
 - **Vanderbilt University** - Model Context Protocol for Leaders: Generative AI Agents, Advanced Prompt Engineering, Generative AI for Leaders
 - **Fractal** - Generative AI for Consultants, Modern Data Strategy for Enterprise Generative AI
 
-## ­ƒºá Learning From
+## ┬¡ãÆ┬║├í Learning From
 
 Drawing insights from leading AI and business thought leaders:
 - **Eric Schmidt** - Former Google CEO, AI strategy and governance
@@ -74,7 +74,7 @@ Drawing insights from leading AI and business thought leaders:
 - **Erik Brynjolfsson** - MIT, AI economics and productivity
 - **Robert Shiller** - Nobel Laureate, Behavioral Economics
 
-## ­ƒÆ╝ What I Do
+## ┬¡ãÆ├åÔòØ What I Do
 
 **AI Governance & Compliance Strategy**
 - Operationalize EU AI Act compliance and ISO 42001 standards into the MLOps lifecycle
@@ -91,7 +91,7 @@ Drawing insights from leading AI and business thought leaders:
 - Develop Responsible AI frameworks that balance innovation with compliance
 - Lead cross-functional teams in implementing AI governance best practices
 
-## ­ƒöº Tech Stack
+## ┬¡ãÆ├Â┬║ Tech Stack
 
 **ML/AI**: Python, scikit-learn, TensorFlow, PyTorch
 
@@ -109,7 +109,7 @@ Drawing insights from leading AI and business thought leaders:
 
 **AI-Powered Development**: Cursor, Claude Code - Advanced AI-assisted programming tools for enhanced productivity and code quality
 
-## ­ƒôï Frameworks & Standards
+## ┬¡ãÆ├┤├» Frameworks & Standards
 
 **Regulatory & Compliance**
 - EU AI Act - Risk classification, conformity assessments, and technical documentation
@@ -125,23 +125,23 @@ Drawing insights from leading AI and business thought leaders:
 - Model monitoring and drift detection frameworks
 - Bias detection and fairness assessment methodologies
 
-## ­ƒôè Featured Projects
+## ┬¡ãÆ├┤├¿ Featured Projects
 
-**1. Flagship ÔÇö [Enterprise AI Risk Console](https://github.com/tshapedconsultant/enterprise-ai-risk)** ÔÇö Enterprise AI Governance & Risk Control Layer for third-party AI vendor intake. Deterministic engine, not a chatbot.
+**1. Flagship ├ö├ç├Â [Enterprise AI Risk Console](https://github.com/tshapedconsultant/enterprise-ai-risk)** ├ö├ç├Â Enterprise AI Governance & Risk Control Layer for third-party AI vendor intake. Deterministic engine, not a chatbot.
   - Deterministic triage from validated YAML profiles, tamper-evident hash-chained audit, dual external anchoring with Jira + optional Rekor/S3 Object Lock
-  - Evidence-first: missing evidence never reduces residual risk; the rules engine sets score (1ÔÇô5) and decision; LLM chat (if configured) only explains
+  - Evidence-first: missing evidence never reduces residual risk; the rules engine sets score (1├ö├ç├┤5) and decision; LLM chat (if configured) only explains
   - Jira human gates: Epic + Legal / SecOps / AI Governance tasks; inbound HMAC webhooks close department approvals; `DecisionRecord` audit trail
-  - FastAPI + vanilla console; CI test gate, evidence-pack artifacts, and a production deploy gate (Demo / PoC ÔÇö not SSO/RBAC or tenant RLS)
+  - FastAPI + vanilla console; CI test gate, evidence-pack artifacts, and a production deploy gate (Demo / PoC ├ö├ç├Â not SSO/RBAC or tenant RLS)
 
-**2. [Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** ÔÇö LangGraph multi-agent system that turns plain-English questions into analysis via a Supervisor, Data Analyst, and Business Strategist. A rules-only decision engine routes the workflow (the LLM never picks the next node); a second SQL pipeline plans, validates, and executes read-only queries behind defense-in-depth guards, with LangSmith tracing for auditability.
+**2. [Enterprise Data Analyst Agent](https://github.com/tshapedconsultant/Enterprise-Data-Analyst-Agent)** ├ö├ç├Â LangGraph multi-agent system that turns plain-English questions into analysis via a Supervisor, Data Analyst, and Business Strategist. A rules-only decision engine routes the workflow (the LLM never picks the next node); a second SQL pipeline plans, validates, and executes read-only queries behind defense-in-depth guards, with LangSmith tracing for auditability.
 
-**3. [Porto Seguro Compliance Hub](https://github.com/tshapedconsultant/porto-seguro-compliance-hub)** ÔÇö Production-oriented, vendor-agnostic Responsible AI reference architecture for highly regulated industries under the EU AI Act and Solvency II. EBM glass-box insurance-claim prediction with Polars, drift and fairness audits, JSON evidence packs, and a Streamlit Model Card for auditor due diligence.
+**3. [Porto Seguro Compliance Hub](https://github.com/tshapedconsultant/porto-seguro-compliance-hub)** ├ö├ç├Â Production-oriented, vendor-agnostic Responsible AI reference architecture for highly regulated industries under the EU AI Act and Solvency II. EBM glass-box insurance-claim prediction with Polars, drift and fairness audits, JSON evidence packs, and a Streamlit Model Card for auditor due diligence.
 
-**4. [ADK Spanish Hotel Voice Assistant](https://github.com/tshapedconsultant/adk-spanish-hotel-voice-assistant)** ÔÇö Spanish voice-and-text hotel booking assistant (Gemini, Flask, Redis) built as a reference for applying the OWASP Top 10 for Agentic Applications as architecture, not a bolt-on. Runs as a voice kiosk, CLI/chatbot, or webhook service, with confirmation-gated bookings so the agent does not take out-of-context actions.
+**4. [ADK Spanish Hotel Voice Assistant](https://github.com/tshapedconsultant/adk-spanish-hotel-voice-assistant)** ├ö├ç├Â Spanish voice-and-text hotel booking assistant (Gemini, Flask, Redis) built as a reference for applying the OWASP Top 10 for Agentic Applications as architecture, not a bolt-on. Runs as a voice kiosk, CLI/chatbot, or webhook service, with confirmation-gated bookings so the agent does not take out-of-context actions.
 
-**5. [RAG Business Model Canvas Generator](https://github.com/tshapedconsultant/ragbmc_space)** ÔÇö RAG system that answers business-model questions and generates Business Model Canvas artifacts anchored in a curated FAISS knowledge base. Generation is DB-first; web search is only a safety net to verify unsourced claims, not the primary source.
+**5. [RAG Business Model Canvas Generator](https://github.com/tshapedconsultant/ragbmc_space)** ├ö├ç├Â RAG system that answers business-model questions and generates Business Model Canvas artifacts anchored in a curated FAISS knowledge base. Generation is DB-first; web search is only a safety net to verify unsourced claims, not the primary source.
 
-**6. [Predictive Responsible Maintenance](https://github.com/tshapedconsultant/Predictive-Responsible-Maintenance)** ÔÇö End-to-end ML pipeline for industrial failure prediction with LIME/SHAP explainability, KolmogorovÔÇôSmirnov drift detection, fairness analysis across machine types, and automated Responsible AI PDF reports plus a Streamlit monitoring dashboard.
+**6. [Predictive Responsible Maintenance](https://github.com/tshapedconsultant/Predictive-Responsible-Maintenance)** ├ö├ç├Â End-to-end ML pipeline for industrial failure prediction with LIME/SHAP explainability, Kolmogorov├ö├ç├┤Smirnov drift detection, fairness analysis across machine types, and automated Responsible AI PDF reports plus a Streamlit monitoring dashboard.
 
 - **[Pandas vs Polars Benchmark](https://github.com/tshapedconsultant/Pandas-VS-Polars-Benchmark)** - Statistically rigorous performance & reliability benchmark
   - Demonstrates significant performance improvement with comprehensive variance analysis
@@ -155,27 +155,26 @@ Drawing insights from leading AI and business thought leaders:
   - Client-side processing for data privacy and sovereignty
   - Autonomous risk assessment system
 
-## ­ƒôØ Latest Articles
+## ┬¡ãÆ├┤├ÿ Latest Articles
 
 Stay updated with my latest insights on Responsible AI, Generative AI, and enterprise AI transformation:
 
 - **[AI's Coding Fluency: The Strategic Imperative for a New Human-Machine Operating Model](https://medium.com/@andresl/ais-coding-fluency-the-strategic-imperative-for-a-new-human-machine-operating-model-deec01a25fc2)** - Exploring the strategic imperative of AI coding fluency and the evolution of human-machine collaboration models
 - **[Why Working with AI is Like Horsemanship](https://medium.com/@andresl/why-working-with-ai-is-like-horsemanship-8a0e06b7da2b)** - Drawing parallels between AI collaboration and horsemanship, emphasizing trust, communication, and partnership
 
-­ƒôû Read more on [Medium](https://medium.com/@andresl) - Articles on AI ethics, Responsible AI practices, and technical deep-dives
+┬¡ãÆ├┤├╗ Read more on [Medium](https://medium.com/@andresl) - Articles on AI ethics, Responsible AI practices, and technical deep-dives
 
-## ­ƒô½ Connect
+## ┬¡ãÆ├┤┬¢ Connect
 
-- **LinkedIn**: [Andr├®s Lage Freire](https://www.linkedin.com/in/andres-lage-freire-4562a91b1/)
+- **LinkedIn**: [AndrÔö£┬«s Lage Freire](https://www.linkedin.com/in/andres-lage-freire-4562a91b1/)
 - **Medium**: [@andresl](https://medium.com/@andresl)
 - **Email**: andreslagefreire@gmail.com
 - **GitHub**: [@tshapedconsultant](https://github.com/tshapedconsultant)
 
-## ­ƒñØ Let's Connect
+## ┬¡ãÆ├▒├ÿ Let's Connect
 
 **Open to opportunities** in Responsible AI Governance, AI Risk Management, and enterprise AI transformation. Let's connect and explore how AI can drive innovation while maintaining ethical standards and regulatory compliance.
 
 ---
 
 *Transforming regulatory requirements into technical guardrails, one governance framework at a time.*
-
